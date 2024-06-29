@@ -1,0 +1,39 @@
+15982
+fifteen thousand nine hundred eighty two
+15---            9--          8-     2
+
+123
+one hundred twenty three
+1--         2-     3
+
+215
+two hundred fifteen
+2--         15
+
+105321
+one hundred five thousand three hundred twenty one
+105---                    3--           2-     1
+
+1005321
+one million five thousand three hundred twenty one
+1------ 5--- 3-- 2- 1
+
+1052321
+one million fifty two thousand three hundred twenty one
+1------ 52--- 3-- 2- 1
+
+1------ 
+  52---
+    3--
+     2-
+      1
+
+1234
+/ 1000000 = 0
+/ 1000 = 1 (1 thousand)
+234
+/ 100 = 2 (2 hundred)
+34
+/ 10 = 3 (3 tens => thirty)
+4
+/ 1 = 4 (4 ones => four)
