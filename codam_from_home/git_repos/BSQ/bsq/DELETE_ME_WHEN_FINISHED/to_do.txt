@@ -1,0 +1,42 @@
+Chapter 1
+1
+Check if file to read from. Else read from CL-input
++ validate input
+
+2
+Read header & store data - height, empty, obstacle, target
++ validate header
+
+3
+Read and store map
+Hiervoor data structure bedenken. Dubbele array lijkt me misschien wel voldoende?
+
+--
+4
+Print map as is. Just as a practise and close chapt 1
+--
+
+Chapter 2
+1
+Process map to find sq.
+Backtracking probably best approach?
+Store current bsq dimensions in variables x, y - or bsq_dim[2] bsq_dim[0] = x, bsq_dim[1] = y	(size)
+Store starting position of current bsq in variables a, b, or bsq_start[2] etc.
+if next sq > current bsq, replace.
+
+2
+Adjust map by placing chars at right locations.
+
+3
+Print new map if all went right, otherwise error
+
+
+Chapter 3
+1
+Multiple files. Repeat process on next files.
+
+2
+makefile
+
+
+
