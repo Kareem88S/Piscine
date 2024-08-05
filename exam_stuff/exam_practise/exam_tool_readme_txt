@@ -1,5 +1,0 @@
-# source
-https://github.com/JCluzet/42_EXAM?tab=readme-ov-file
-
-# usage
-bash -c "$(curl https://grademe.fr)"
